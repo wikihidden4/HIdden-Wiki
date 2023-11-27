@@ -1,6 +1,6 @@
 # The Hidden Wiki
 
-<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px;">
+<div style="background-color: #3498db; padding: 20px; border: 2px solid #000; border-radius: 10px; color: #000;">
 
   <p align="center">
     <a href="https://thehiddenwiki2022.com">
@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    <a href="https://thehiddenwiki2022.com">https://thehiddenwiki2022.com</a>
+    <a href="https://thehiddenwiki2022.com" style="color: #000;">https://thehiddenwiki2022.com</a>
   </p>
 
   The Hidden Wiki was a dark web MediaWiki wiki operating as Tor hidden services that could be anonymously edited after registering on the site. The main page served as a directory of links to other .onion sites.
