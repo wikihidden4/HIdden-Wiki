@@ -1,4 +1,4 @@
- <h1 align="center" id="title">The Hidden Wiki</h1>
+ <a href="https://thehiddenwiki2022.com"><h1 align="center" id="title">The Hidden Wiki</h1></a>
 
 <a href="https://thehiddenwiki2022.com"><p align="center"><img src="https://i.ibb.co/FY9JBkz/Screenshot-2023-11-27-110345.png" alt="project-image"></p></a>
 
