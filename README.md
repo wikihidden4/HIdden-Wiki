@@ -1,30 +1,46 @@
-  <a href="https://thehiddenwiki2022.com"><h1 align="center" id="title">The Hidden Wiki</h1></a>
- <h1 align="center"><a href="https://thehiddenwiki2022.com">https://thehiddenwiki2022.com</a></h1>
+<!-- Project Title -->
+<p align="center">
+  <a href="https://thehiddenwiki2022.com">
+    <img src="https://i.ibb.co/FY9JBkz/Screenshot-2023-11-27-110345.png" alt="project-image">
+  </a>
+  <h1 align="center" id="title">The Hidden Wiki</h1>
+</p>
 
-<a href="https://thehiddenwiki2022.com"><p align="center"><img src="https://i.ibb.co/FY9JBkz/Screenshot-2023-11-27-110345.png" alt="project-image"></p></a>
+<!-- Project URL -->
+<h1 align="center">
+  <a href="https://thehiddenwiki2022.com">https://thehiddenwiki2022.com</a>
+</h1>
 
-<p id="description">The Hidden Wiki was a dark web MediaWiki wiki operating as Tor hidden services that could be anonymously edited after registering on the site. The main page served as a directory of links to other .onion sites.</p>
+<!-- Project Description -->
+<p align="center" id="description">
+  The Hidden Wiki was a dark web MediaWiki operating as Tor hidden services, providing an anonymously editable link directory. 
+</p>
 
-  
-  
-<h2>History</h2>
+<!-- History -->
+## History
 
-Here're some of the project's best features:
+The Hidden Wiki, initially operating through the .onion pseudo top-level domain accessible only via Tor or a Tor gateway, served as a community-maintained link directory to various hidden services. Originating around 2007, it gained prominence for its associations with illegal content. Notably, in March 2014, the site was hacked, redirecting to Doxbin, and mirrored in multiple locations following Operation Onymous in November 2014.
 
-*   The first Hidden Wiki was operated through the .onion pseudo top-level domain which can be accessed only by using Tor or a Tor gateway. Its main page provided a community-maintained link directory to other hidden services including links claiming to offer money laundering contract killing cyber-attacks for hire contraband chemicals and bomb making. The rest of the wiki was essentially uncensored as well and also offered links to sites hosting child pornography and abuse images. The earliest mention of the hidden wiki is from 2007 when it was located at 6sxoyfb3h2nvok2d.onion. A well known iteration of the Hidden Wiki was founded some time before October 2011 coming to prominence with its associations with illegal content. At some point prior to August 2013 the site was hosted on Freedom Hosting. In March 2014 the site and its kpvz7ki2v5agwt35.onion domain was hacked and redirected to Doxbin. Following this event the content began to be mirrored to more locations. During Operation Onymous in November 2014 after its Bulgarian hosting was compromised the site served a message from law enforcement.
+<!-- Project Features -->
+### Key Features
 
-<h2>Successors</h2>
+- Anonymously editable link directory.
+- Initial operation through the .onion domain.
+- Association with various hidden services.
+- Mirroring and increased accessibility over time.
 
-There are several .onion websites hosting successors based on mirrors of the Hidden Wiki; as such there is no longer one single official Hidden Wiki. Many are hosted for accessibility reasons due to frequent downtime and instability of the main wiki while others were launched in order to filter links to child pornography.
+<!-- Successors -->
+## Successors
 
+As of now, there is no single official Hidden Wiki, with several .onion websites hosting successors based on mirrors. These successors aim to address issues such as frequent downtime and instability.
 
-<h2>References</h2>
+<!-- References -->
+## References
 
-Gallagher, Sean (23 October 2011). "Anonymous takes down darknet child porn site on Tor network". Ars Technica. Archived from the original on 6 September 2013. Retrieved 10 February 2012.
-Williams, Christopher (27 October 2011). "The Hidden Wiki: an internet underworld of child abuse". The Daily Telegraph. Archived from the original on 4 June 2019. Retrieved 25 January 2012.
-Karsten (June 2007). "Length of new onion addresses". Archived from the original on 1 October 2014. Retrieved 10 March 2018.
-Williams, Christopher (24 October 2011). "Anonymous hacktivists target child abuse websites". Archived from the original on 18 October 2018. Retrieved 8 August 2015.
-Howell O'Neill, Patrick (4 August 2013). "An in-depth guide to Freedom Hosting, the engine of the Dark Net". Archived from the original on 30 April 2015. Retrieved 3 August 2015.
-"The Hidden Wiki Hacked, WikiTor Fills The Gap". DeepDotWeb. March 14, 2014. Archived from the original on 19 March 2015. Retrieved 29 March 2015.
-DeepDotWeb (15 November 2014). "The Hidden Wiki Seized (Old Domain)". Archived from the original on 28 June 2015. Retrieved 20 June 2015.
-Mead, Derek (12 March 2014). "A Hacker Scrubbed Child Porn Links from the Dark Web's Most Popular Site". VICE Motherboard. Archived from the original on 6 October 2016. Retrieved 24 March 2015.
+- [Ars Technica - Anonymous takes down darknet child porn site on Tor network](https://arstechnica.com/tech-policy/2011/10/anonymous-takes-down-darknet-child-porn-site-on-tor-network/)
+- [The Daily Telegraph - The Hidden Wiki: an internet underworld of child abuse](https://www.telegraph.co.uk/technology/internet/8855338/The-Hidden-Wiki-an-internet-underworld-of-child-abuse.html)
+- [Archived Length of new onion addresses](https://web.archive.org/web/20141001223444/http://archives.seul.org/or/talk/Jun-2007/msg00193.html)
+- [Anonymous hacktivists target child abuse websites](https://www.telegraph.co.uk/technology/8858189/Anonymous-hacktivists-target-child-abuse-websites.html)
+- [An in-depth guide to Freedom Hosting, the engine of the Dark Net](https://arstechnica.com/tech-policy/2013/08/an-in-depth-guide-to-freedom-hosting-the-engine-of-the-dark-net/)
+- [DeepDotWeb - The Hidden Wiki Hacked, WikiTor Fills The Gap](https://web.archive.org/web/20150319082824/https://www.deepdotweb.com/2014/03/14/the-hidden-wiki-hacked-wikitor-fills-the-gap/)
+- [DeepDotWeb - The Hidden Wiki Seized (Old Domain)](https://web.archive.org/web/20150628154507/https://www.deepdotweb.com/
